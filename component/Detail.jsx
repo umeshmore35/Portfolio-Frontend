@@ -1,7 +1,6 @@
 import styles from "../styles/Details.module.css";
 
 function Details(props) {
-  console.log(props);
   let { name, email, phoneNo, imageUrl, address, aboutMe } = props;
   return (
     <div className={styles["container"]}>

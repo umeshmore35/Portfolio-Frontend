@@ -46,6 +46,10 @@
   color: #0779fb;
 }
 
+.h2 {
+  display: none;
+}
+
 .img-container {
   margin: 2% auto;
   margin-top: 15%;
@@ -57,4 +61,21 @@
 .img {
   width: 15%;
   height: 40%;
+}
+
+@media (max-width: 767.98px) {
+  .container {
+    margin: 0;
+    height: 60vh;
+  }
+
+  .h1 {
+    display: none;
+  }
+  .h2 {
+    display: initial;
+  }
+  .img-container {
+    margin-top: 30%;
+  }
 }

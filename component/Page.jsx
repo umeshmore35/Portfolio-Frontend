@@ -6,6 +6,7 @@ const Page = () => {
       <div>
         <h5 className={styles["h6"]}>HEY ! I AM </h5>
         <h1 className={styles["h1"]}>UMESH MORE</h1>
+        <h1 className={styles["h2"]}>UMESH MORE</h1>
         <h4 className={styles["h5"]}>I'm a Full Stack Developer</h4>
       </div>
 

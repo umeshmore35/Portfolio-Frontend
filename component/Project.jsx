@@ -53,7 +53,7 @@ function Project(props) {
       <div className={styles["container"]}>
         <div className={styles["img-container"]}>
           <img
-            src="https://res.cloudinary.com/djfphnek9/image/upload/v1612433170/Screenshot_from_2021-02-04_15-34-20_ln7rnj.png"
+            src="https://res.cloudinary.com/djfphnek9/image/upload/v1613898328/Screenshot_from_2021-02-04_15-34-20_pt4iln.png"
             alt="project2"
             className={styles["img"]}
           />

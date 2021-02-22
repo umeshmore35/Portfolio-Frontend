@@ -13,33 +13,33 @@ const Page = () => {
       <div className={styles["img-container"]}>
         <img
           className={styles["img"]}
-          src="https://cdn.icon-icons.com/icons2/1377/PNG/512/applicationxjavascript_92737.png"
+          src="https://res.cloudinary.com/djfphnek9/image/upload/v1614015644/javascript_zodreb.png"
           alt="javaScript"
         />
         <img
           className={styles["img"]}
-          src="https://cdn.icon-icons.com/icons2/2248/PNG/512/react_icon_135264.png"
+          src="https://res.cloudinary.com/djfphnek9/image/upload/v1614015644/React_lnifaw.png"
           alt="React"
         />
         <img
           className={styles["img"]}
-          src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png"
+          src="https://res.cloudinary.com/djfphnek9/image/upload/v1614015644/nextjs_vn5o1q.png"
           alt="nextJs"
         />
         <img
           className={styles["img"]}
-          src="https://cdn.icon-icons.com/icons2/2622/PNG/512/brand_node_icon_157859.png"
+          src="https://res.cloudinary.com/djfphnek9/image/upload/v1614015643/nodejs_o5s1qh.png"
           alt="nodeJs"
         />
 
         <img
           className={styles["img"]}
-          src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png"
+          src="https://res.cloudinary.com/djfphnek9/image/upload/v1614015644/Redux_obvcfb.png"
           alt="Redux"
         />
         <img
           className={styles["img"]}
-          src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_mongodb_icon_161288.png"
+          src="https://res.cloudinary.com/djfphnek9/image/upload/v1614015644/mangodb_vn6akz.png"
           alt="mongodb"
         />
       </div>
